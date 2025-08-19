@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Tianxiaorui9001.github.io/tserver/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
